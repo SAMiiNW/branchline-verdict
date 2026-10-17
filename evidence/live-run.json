@@ -1,0 +1,37 @@
+{
+  "treeId": "ROUTE-1792202937",
+  "caseId": "CASE-1792202937",
+  "transactions": {
+    "openTree": "0x867260cf349df1ee8ea70e528a53bd59d58b69e84960736f1cfce998d3e478d3",
+    "fileCase": "0x4eef84ad469d7d080b1ef5ea5e002eb10407e72685258c11c48f310cc74ec398",
+    "duplicateRejected": "0x4576f906e3ba253a16cb8bdbde3da818212135e4dd7e0a0b1dc639716d600472",
+    "walkCase": "0x8d7a67ef8382c2e17637361e24a9212515ae1de26ed1e3f3ba3446d52ba9d672"
+  },
+  "negativeExecution": "ERROR",
+  "stateUnchangedAfterRejectedDuplicate": true,
+  "finalCase": {
+    "id": "CASE-1792202937",
+    "label": "Atlas manifest release",
+    "outcome": "CLEAR",
+    "owner": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+    "path": [
+      {
+        "answer": true,
+        "question": 0
+      },
+      {
+        "answer": true,
+        "question": 1
+      },
+      {
+        "answer": false,
+        "question": 2
+      }
+    ],
+    "source_digest": "e9d0eebcd71ebbc72a57c74d3f0b9cdbc08eef370b77c74d233e06f267b6eb27",
+    "source_url": "https://cdn.jsdelivr.net/gh/SAMiiNW/branchline-verdict@main/fixtures/case-clear.md",
+    "state": "ROUTED",
+    "tree_id": "ROUTE-1792202937"
+  },
+  "fixtureDisclosure": "The public case page is an operator-controlled fixture used to prove deterministic root-to-terminal routing."
+}

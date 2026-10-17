@@ -1,0 +1,11 @@
+{
+  "network": "StudioNet",
+  "account": "SAMiiNW",
+  "contractAddress": "0x2E59102e1436a8148811b21827dc52F5c07C7FB7",
+  "deploymentTransaction": "0xb0f5d43f40e7ec3eddd274d48f64872c7c75e7ce6aa76179727d3a590dbef6cf",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "cd23b236570c9e52f1a41a21f52b453e709c75847747d740773994ce54a00e64",
+  "sourceCommit": "039d0a80ab2e8d4ab2a8583c1a88d77067da06f9",
+  "repository": "https://github.com/SAMiiNW/branchline-verdict"
+}
